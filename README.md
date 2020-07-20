@@ -1,2 +1,3 @@
----?image=assets/img/monkey.jpg&size=50% 100%&color=lightgray
+<!-- background: #5e0011 -->
+<!-- color: #ffffff -->
 ### Hola Mundo 👋
