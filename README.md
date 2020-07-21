@@ -1,2 +1,2 @@
-![bg](#39ffaf)
+![](#39ffaf)
 ### Hola Mundo 👋
