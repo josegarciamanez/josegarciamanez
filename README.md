@@ -5,7 +5,7 @@
 <h5 align="center">Experto en desarrollo Web / Cátedra Universidad-Empresa Innovación y Competencias. Universidad Politécnica de Madrid</h5>
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg.svg" alt="react" width="20" height="20"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="20" height="20"/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
