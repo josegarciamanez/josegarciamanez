@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
 <h1 align="center">Hola 👋🏽, Soy José García Máñez</h1>
-<h3 align="center">DESARROLLO WEB Y COMERCIO ON-LINE</h3>
+<h3 align="center">NTTdata Front-End Developer</h3>
 <h5 align="center">Experto en desarrollo Web / Cátedra Universidad-Empresa Innovación y Competencias. Universidad Politécnica de Madrid</h5>
 <p align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/>
