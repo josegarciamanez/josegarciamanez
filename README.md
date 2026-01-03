@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jose Garcia, a frontend developer 👨‍💻 working remotely en E-valua 🚀</div>  
+### <div align="center">I'm Jose Garcia, a frontend developer</div>  
   
 
 <br/>  
