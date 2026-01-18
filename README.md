@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jose Garcia, a frontend developer</div>  
+### <div align="center">I'm Jose Garcia, a frontend & mobile developer</div>  
   
 
 <br/>  
